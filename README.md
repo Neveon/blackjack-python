@@ -1,6 +1,6 @@
 # blackjack-python
 
-## Use 'python blackjack.py' to run the game
+## Use `python blackjack.py` to run the game
 
 ### Game Details:
 Ace as 1 or 11
