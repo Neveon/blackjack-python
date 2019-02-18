@@ -1,5 +1,5 @@
 # blackjack-python
--Use 'python blackjack.py' to run the game
+-* Use 'python blackjack.py' to run the game
 
 Casinos use a six-deck game (312 cards)
 
