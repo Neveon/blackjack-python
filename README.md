@@ -1,8 +1,8 @@
 # blackjack-python
 
-## Use `python blackjack.py` to run the game
+### Use `python blackjack.py` to run the game
 
-### Game Details:
+#### Game Details:
 Ace as 1 or 11
 
 All face cards = 10  -> J, Q, K
