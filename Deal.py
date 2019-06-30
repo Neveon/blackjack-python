@@ -222,7 +222,7 @@ class Dealer(Player):
                 return bank
             else:
                 print("ITS A DRAW!")
-                print("The house always wins.\nYou lose $%.2f\nBank Value is now: %.2f" % (bet, bank))
                 bank -= bet
+                print("The house always wins.\nYou lose $%.2f\nBank Value is now: %.2f" % (bet, bank))
                 game_record[3] += 1
                 return bank
